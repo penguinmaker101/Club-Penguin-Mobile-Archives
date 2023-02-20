@@ -1,0 +1,100 @@
+{"frames": [
+
+{
+	"filename": "watercombo_sheen_anim_0000.png",
+	"frame": {"x":294,"y":294,"w":312,"h":290},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":3,"w":312,"h":290},
+	"sourceSize": {"w":336,"h":298}
+},
+{
+	"filename": "watercombo_sheen_anim_0001.png",
+	"frame": {"x":2,"y":608,"w":312,"h":290},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":3,"w":312,"h":290},
+	"sourceSize": {"w":336,"h":298}
+},
+{
+	"filename": "watercombo_sheen_anim_0002.png",
+	"frame": {"x":2,"y":294,"w":312,"h":290},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":3,"w":312,"h":290},
+	"sourceSize": {"w":336,"h":298}
+},
+{
+	"filename": "watercombo_sheen_anim_0003.png",
+	"frame": {"x":630,"y":2,"w":312,"h":290},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":3,"w":312,"h":290},
+	"sourceSize": {"w":336,"h":298}
+},
+{
+	"filename": "watercombo_sheen_anim_0004.png",
+	"frame": {"x":316,"y":2,"w":312,"h":290},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":3,"w":312,"h":290},
+	"sourceSize": {"w":336,"h":298}
+},
+{
+	"filename": "watercombo_sheen_anim_0005.png",
+	"frame": {"x":2,"y":2,"w":312,"h":290},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":3,"w":312,"h":290},
+	"sourceSize": {"w":336,"h":298}
+},
+{
+	"filename": "watercombo_sheen_anim_0006.png",
+	"frame": {"x":2,"y":2,"w":312,"h":290},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":3,"w":312,"h":290},
+	"sourceSize": {"w":336,"h":298}
+},
+{
+	"filename": "watercombo_sheen_anim_0007.png",
+	"frame": {"x":2,"y":2,"w":312,"h":290},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":3,"w":312,"h":290},
+	"sourceSize": {"w":336,"h":298}
+},
+{
+	"filename": "watercombo_sheen_anim_0008.png",
+	"frame": {"x":2,"y":2,"w":312,"h":290},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":3,"w":312,"h":290},
+	"sourceSize": {"w":336,"h":298}
+},
+{
+	"filename": "watercombo_sheen_anim_0009.png",
+	"frame": {"x":2,"y":2,"w":312,"h":290},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":3,"w":312,"h":290},
+	"sourceSize": {"w":336,"h":298}
+},
+{
+	"filename": "watercombo_sheen_anim_0010.png",
+	"frame": {"x":2,"y":2,"w":312,"h":290},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":3,"w":312,"h":290},
+	"sourceSize": {"w":336,"h":298}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "watercombo_sheen_anim.png",
+	"format": "RGBA8888",
+	"size": {"w":942,"h":920},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:51a05d0c89e813be27e62584557353ab$"
+}
+}

@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "powerbarwater_anim_0000.png",
+	"frame": {"x":2,"y":422,"w":68,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":32,"w":68,"h":36},
+	"sourceSize": {"w":474,"h":84}
+},
+{
+	"filename": "powerbarwater_anim_0001.png",
+	"frame": {"x":40,"y":368,"w":112,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":32,"w":112,"h":36},
+	"sourceSize": {"w":474,"h":84}
+},
+{
+	"filename": "powerbarwater_anim_0002.png",
+	"frame": {"x":78,"y":460,"w":156,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":32,"w":156,"h":36},
+	"sourceSize": {"w":474,"h":84}
+},
+{
+	"filename": "powerbarwater_anim_0003.png",
+	"frame": {"x":78,"y":422,"w":200,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":32,"w":200,"h":36},
+	"sourceSize": {"w":474,"h":84}
+},
+{
+	"filename": "powerbarwater_anim_0004.png",
+	"frame": {"x":40,"y":116,"w":244,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":32,"w":244,"h":36},
+	"sourceSize": {"w":474,"h":84}
+},
+{
+	"filename": "powerbarwater_anim_0005.png",
+	"frame": {"x":416,"y":78,"w":288,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":32,"w":288,"h":36},
+	"sourceSize": {"w":474,"h":84}
+},
+{
+	"filename": "powerbarwater_anim_0006.png",
+	"frame": {"x":2,"y":78,"w":330,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":32,"w":330,"h":36},
+	"sourceSize": {"w":474,"h":84}
+},
+{
+	"filename": "powerbarwater_anim_0007.png",
+	"frame": {"x":40,"y":78,"w":374,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":32,"w":374,"h":36},
+	"sourceSize": {"w":474,"h":84}
+},
+{
+	"filename": "powerbarwater_anim_0008.png",
+	"frame": {"x":466,"y":2,"w":418,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":32,"w":418,"h":36},
+	"sourceSize": {"w":474,"h":84}
+},
+{
+	"filename": "powerbarwater_anim_0009.png",
+	"frame": {"x":2,"y":2,"w":462,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":462,"h":74},
+	"sourceSize": {"w":474,"h":84}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "powerbarwater_anim.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4de2ef6e5748fbcb5e685bfc5759afc0$"
+}
+}

@@ -1,0 +1,108 @@
+{"frames": [
+
+{
+	"filename": "sensei_bod_down_to_up_anim_0000.png",
+	"frame": {"x":1072,"y":450,"w":492,"h":446},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":56,"w":492,"h":446},
+	"sourceSize": {"w":536,"h":502}
+},
+{
+	"filename": "sensei_bod_down_to_up_anim_0001.png",
+	"frame": {"x":1072,"y":2,"w":492,"h":446},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":56,"w":492,"h":446},
+	"sourceSize": {"w":536,"h":502}
+},
+{
+	"filename": "sensei_bod_down_to_up_anim_0002.png",
+	"frame": {"x":1566,"y":2,"w":480,"h":438},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":64,"w":480,"h":438},
+	"sourceSize": {"w":536,"h":502}
+},
+{
+	"filename": "sensei_bod_down_to_up_anim_0003.png",
+	"frame": {"x":1566,"y":442,"w":476,"h":436},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":66,"w":476,"h":436},
+	"sourceSize": {"w":536,"h":502}
+},
+{
+	"filename": "sensei_bod_down_to_up_anim_0004.png",
+	"frame": {"x":1566,"y":442,"w":476,"h":436},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":66,"w":476,"h":436},
+	"sourceSize": {"w":536,"h":502}
+},
+{
+	"filename": "sensei_bod_down_to_up_anim_0005.png",
+	"frame": {"x":1566,"y":442,"w":476,"h":436},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":66,"w":476,"h":436},
+	"sourceSize": {"w":536,"h":502}
+},
+{
+	"filename": "sensei_bod_down_to_up_anim_0006.png",
+	"frame": {"x":500,"y":504,"w":488,"h":446},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":56,"w":488,"h":446},
+	"sourceSize": {"w":536,"h":502}
+},
+{
+	"filename": "sensei_bod_down_to_up_anim_0007.png",
+	"frame": {"x":1566,"y":880,"w":488,"h":468},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":34,"w":488,"h":468},
+	"sourceSize": {"w":536,"h":502}
+},
+{
+	"filename": "sensei_bod_down_to_up_anim_0008.png",
+	"frame": {"x":2,"y":500,"w":488,"h":496},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":488,"h":496},
+	"sourceSize": {"w":536,"h":502}
+},
+{
+	"filename": "sensei_bod_down_to_up_anim_0009.png",
+	"frame": {"x":540,"y":2,"w":530,"h":500},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":530,"h":500},
+	"sourceSize": {"w":536,"h":502}
+},
+{
+	"filename": "sensei_bod_down_to_up_anim_0010.png",
+	"frame": {"x":540,"y":2,"w":530,"h":500},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":530,"h":500},
+	"sourceSize": {"w":536,"h":502}
+},
+{
+	"filename": "sensei_bod_down_to_up_anim_0011.png",
+	"frame": {"x":2,"y":2,"w":536,"h":496},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":536,"h":496},
+	"sourceSize": {"w":536,"h":502}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "sensei_bod_down_to_up_anim.png",
+	"format": "RGBA5555",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a202a718814bf7aead1c9c8fc7fa51c9$"
+}
+}

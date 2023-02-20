@@ -1,0 +1,156 @@
+{"frames": [
+
+{
+	"filename": "snowtimer_count_anim_0000.png",
+	"frame": {"x":2,"y":880,"w":122,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":122,"h":127},
+	"sourceSize": {"w":136,"h":139}
+},
+{
+	"filename": "snowtimer_count_anim_0001.png",
+	"frame": {"x":2,"y":751,"w":122,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":122,"h":127},
+	"sourceSize": {"w":136,"h":139}
+},
+{
+	"filename": "snowtimer_count_anim_0002.png",
+	"frame": {"x":2,"y":622,"w":122,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":122,"h":127},
+	"sourceSize": {"w":136,"h":139}
+},
+{
+	"filename": "snowtimer_count_anim_0003.png",
+	"frame": {"x":260,"y":498,"w":122,"h":127},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":122,"h":127},
+	"sourceSize": {"w":136,"h":139}
+},
+{
+	"filename": "snowtimer_count_anim_0004.png",
+	"frame": {"x":131,"y":498,"w":122,"h":127},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":122,"h":127},
+	"sourceSize": {"w":136,"h":139}
+},
+{
+	"filename": "snowtimer_count_anim_0005.png",
+	"frame": {"x":2,"y":498,"w":122,"h":127},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":122,"h":127},
+	"sourceSize": {"w":136,"h":139}
+},
+{
+	"filename": "snowtimer_count_anim_0006.png",
+	"frame": {"x":260,"y":374,"w":122,"h":127},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":122,"h":127},
+	"sourceSize": {"w":136,"h":139}
+},
+{
+	"filename": "snowtimer_count_anim_0007.png",
+	"frame": {"x":131,"y":374,"w":122,"h":127},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":122,"h":127},
+	"sourceSize": {"w":136,"h":139}
+},
+{
+	"filename": "snowtimer_count_anim_0008.png",
+	"frame": {"x":2,"y":374,"w":122,"h":127},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":122,"h":127},
+	"sourceSize": {"w":136,"h":139}
+},
+{
+	"filename": "snowtimer_count_anim_0009.png",
+	"frame": {"x":260,"y":250,"w":122,"h":127},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":122,"h":127},
+	"sourceSize": {"w":136,"h":139}
+},
+{
+	"filename": "snowtimer_count_anim_0010.png",
+	"frame": {"x":131,"y":250,"w":122,"h":127},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":122,"h":127},
+	"sourceSize": {"w":136,"h":139}
+},
+{
+	"filename": "snowtimer_count_anim_0011.png",
+	"frame": {"x":2,"y":250,"w":122,"h":127},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":122,"h":127},
+	"sourceSize": {"w":136,"h":139}
+},
+{
+	"filename": "snowtimer_count_anim_0012.png",
+	"frame": {"x":260,"y":126,"w":122,"h":127},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":122,"h":127},
+	"sourceSize": {"w":136,"h":139}
+},
+{
+	"filename": "snowtimer_count_anim_0013.png",
+	"frame": {"x":131,"y":126,"w":122,"h":127},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":122,"h":127},
+	"sourceSize": {"w":136,"h":139}
+},
+{
+	"filename": "snowtimer_count_anim_0014.png",
+	"frame": {"x":2,"y":126,"w":122,"h":127},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":122,"h":127},
+	"sourceSize": {"w":136,"h":139}
+},
+{
+	"filename": "snowtimer_count_anim_0015.png",
+	"frame": {"x":260,"y":2,"w":122,"h":127},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":122,"h":127},
+	"sourceSize": {"w":136,"h":139}
+},
+{
+	"filename": "snowtimer_count_anim_0016.png",
+	"frame": {"x":131,"y":2,"w":122,"h":127},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":122,"h":127},
+	"sourceSize": {"w":136,"h":139}
+},
+{
+	"filename": "snowtimer_count_anim_0017.png",
+	"frame": {"x":2,"y":2,"w":122,"h":127},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":122,"h":127},
+	"sourceSize": {"w":136,"h":139}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "snowtimer_count_anim.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0f65e8948963e60201bc4708ec573b35$"
+}
+}

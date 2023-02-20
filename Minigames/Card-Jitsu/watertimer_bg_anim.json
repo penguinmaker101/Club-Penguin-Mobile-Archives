@@ -1,0 +1,116 @@
+{"frames": [
+
+{
+	"filename": "watertimer_bg_anim_0000.png",
+	"frame": {"x":533,"y":356,"w":283,"h":175},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":283,"h":175},
+	"sourceSize": {"w":297,"h":185}
+},
+{
+	"filename": "watertimer_bg_anim_0001.png",
+	"frame": {"x":356,"y":464,"w":283,"h":175},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":283,"h":175},
+	"sourceSize": {"w":297,"h":185}
+},
+{
+	"filename": "watertimer_bg_anim_0002.png",
+	"frame": {"x":356,"y":179,"w":283,"h":175},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":283,"h":175},
+	"sourceSize": {"w":297,"h":185}
+},
+{
+	"filename": "watertimer_bg_anim_0003.png",
+	"frame": {"x":572,"y":179,"w":283,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":283,"h":175},
+	"sourceSize": {"w":297,"h":185}
+},
+{
+	"filename": "watertimer_bg_anim_0004.png",
+	"frame": {"x":287,"y":749,"w":283,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":283,"h":175},
+	"sourceSize": {"w":297,"h":185}
+},
+{
+	"filename": "watertimer_bg_anim_0005.png",
+	"frame": {"x":179,"y":464,"w":283,"h":175},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":283,"h":175},
+	"sourceSize": {"w":297,"h":185}
+},
+{
+	"filename": "watertimer_bg_anim_0006.png",
+	"frame": {"x":179,"y":179,"w":283,"h":175},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":283,"h":175},
+	"sourceSize": {"w":297,"h":185}
+},
+{
+	"filename": "watertimer_bg_anim_0007.png",
+	"frame": {"x":2,"y":749,"w":283,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":283,"h":175},
+	"sourceSize": {"w":297,"h":185}
+},
+{
+	"filename": "watertimer_bg_anim_0008.png",
+	"frame": {"x":2,"y":464,"w":283,"h":175},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":283,"h":175},
+	"sourceSize": {"w":297,"h":185}
+},
+{
+	"filename": "watertimer_bg_anim_0009.png",
+	"frame": {"x":2,"y":179,"w":283,"h":175},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":283,"h":175},
+	"sourceSize": {"w":297,"h":185}
+},
+{
+	"filename": "watertimer_bg_anim_0010.png",
+	"frame": {"x":572,"y":2,"w":283,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":283,"h":175},
+	"sourceSize": {"w":297,"h":185}
+},
+{
+	"filename": "watertimer_bg_anim_0011.png",
+	"frame": {"x":287,"y":2,"w":283,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":283,"h":175},
+	"sourceSize": {"w":297,"h":185}
+},
+{
+	"filename": "watertimer_bg_anim_0012.png",
+	"frame": {"x":2,"y":2,"w":283,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":283,"h":175},
+	"sourceSize": {"w":297,"h":185}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "watertimer_bg_anim.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:deb52bdf30f15e6248cc6830f64a043b$"
+}
+}

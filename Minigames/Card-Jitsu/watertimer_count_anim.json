@@ -1,0 +1,156 @@
+{"frames": [
+
+{
+	"filename": "watertimer_count_anim_0000.png",
+	"frame": {"x":2,"y":845,"w":101,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":4,"w":101,"h":102},
+	"sourceSize": {"w":119,"h":120}
+},
+{
+	"filename": "watertimer_count_anim_0001.png",
+	"frame": {"x":106,"y":836,"w":101,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":4,"w":101,"h":102},
+	"sourceSize": {"w":119,"h":120}
+},
+{
+	"filename": "watertimer_count_anim_0002.png",
+	"frame": {"x":2,"y":742,"w":101,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":4,"w":101,"h":102},
+	"sourceSize": {"w":119,"h":120}
+},
+{
+	"filename": "watertimer_count_anim_0003.png",
+	"frame": {"x":106,"y":733,"w":101,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":4,"w":101,"h":102},
+	"sourceSize": {"w":119,"h":120}
+},
+{
+	"filename": "watertimer_count_anim_0004.png",
+	"frame": {"x":2,"y":639,"w":101,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":4,"w":101,"h":102},
+	"sourceSize": {"w":119,"h":120}
+},
+{
+	"filename": "watertimer_count_anim_0005.png",
+	"frame": {"x":106,"y":630,"w":101,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":4,"w":101,"h":102},
+	"sourceSize": {"w":119,"h":120}
+},
+{
+	"filename": "watertimer_count_anim_0006.png",
+	"frame": {"x":2,"y":536,"w":101,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":4,"w":101,"h":102},
+	"sourceSize": {"w":119,"h":120}
+},
+{
+	"filename": "watertimer_count_anim_0007.png",
+	"frame": {"x":106,"y":527,"w":101,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":4,"w":101,"h":102},
+	"sourceSize": {"w":119,"h":120}
+},
+{
+	"filename": "watertimer_count_anim_0008.png",
+	"frame": {"x":2,"y":433,"w":101,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":4,"w":101,"h":102},
+	"sourceSize": {"w":119,"h":120}
+},
+{
+	"filename": "watertimer_count_anim_0009.png",
+	"frame": {"x":106,"y":424,"w":101,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":4,"w":101,"h":102},
+	"sourceSize": {"w":119,"h":120}
+},
+{
+	"filename": "watertimer_count_anim_0010.png",
+	"frame": {"x":2,"y":330,"w":101,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":4,"w":101,"h":102},
+	"sourceSize": {"w":119,"h":120}
+},
+{
+	"filename": "watertimer_count_anim_0011.png",
+	"frame": {"x":106,"y":321,"w":101,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":4,"w":101,"h":102},
+	"sourceSize": {"w":119,"h":120}
+},
+{
+	"filename": "watertimer_count_anim_0012.png",
+	"frame": {"x":2,"y":227,"w":101,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":4,"w":101,"h":102},
+	"sourceSize": {"w":119,"h":120}
+},
+{
+	"filename": "watertimer_count_anim_0013.png",
+	"frame": {"x":111,"y":218,"w":101,"h":102},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":4,"w":101,"h":102},
+	"sourceSize": {"w":119,"h":120}
+},
+{
+	"filename": "watertimer_count_anim_0014.png",
+	"frame": {"x":2,"y":119,"w":107,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":107,"h":106},
+	"sourceSize": {"w":119,"h":120}
+},
+{
+	"filename": "watertimer_count_anim_0015.png",
+	"frame": {"x":120,"y":110,"w":107,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":107,"h":106},
+	"sourceSize": {"w":119,"h":120}
+},
+{
+	"filename": "watertimer_count_anim_0016.png",
+	"frame": {"x":120,"y":2,"w":107,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":107,"h":106},
+	"sourceSize": {"w":119,"h":120}
+},
+{
+	"filename": "watertimer_count_anim_0017.png",
+	"frame": {"x":2,"y":2,"w":115,"h":116},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":116},
+	"sourceSize": {"w":119,"h":120}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "watertimer_count_anim.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b3d7922cf9009c0beb50f8265c0867b8$"
+}
+}

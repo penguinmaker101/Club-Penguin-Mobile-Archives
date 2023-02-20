@@ -1,0 +1,52 @@
+{"frames": [
+
+{
+	"filename": "powerbarwater_hide_icon_anim_0000.png",
+	"frame": {"x":2,"y":56,"w":44,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":10,"w":44,"h":52},
+	"sourceSize": {"w":74,"h":76}
+},
+{
+	"filename": "powerbarwater_hide_icon_anim_0001.png",
+	"frame": {"x":2,"y":2,"w":46,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":10,"w":46,"h":52},
+	"sourceSize": {"w":74,"h":76}
+},
+{
+	"filename": "powerbarwater_hide_icon_anim_0002.png",
+	"frame": {"x":2,"y":2,"w":46,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":10,"w":46,"h":52},
+	"sourceSize": {"w":74,"h":76}
+},
+{
+	"filename": "powerbarwater_hide_icon_anim_0003.png",
+	"frame": {"x":48,"y":56,"w":42,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":13,"w":42,"h":46},
+	"sourceSize": {"w":74,"h":76}
+},
+{
+	"filename": "powerbarwater_hide_icon_anim_0004.png",
+	"frame": {"x":92,"y":2,"w":32,"h":34},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":20,"w":32,"h":34},
+	"sourceSize": {"w":74,"h":76}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "powerbarwater_hide_icon_anim.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4ceeb729bd83cfa3434e3f9442f47ac6$"
+}
+}

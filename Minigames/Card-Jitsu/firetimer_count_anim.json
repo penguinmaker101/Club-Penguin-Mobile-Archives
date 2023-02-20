@@ -1,0 +1,156 @@
+{"frames": [
+
+{
+	"filename": "firetimer_count_animation_0000.png",
+	"frame": {"x":280,"y":270,"w":132,"h":137},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":132,"h":137},
+	"sourceSize": {"w":148,"h":151}
+},
+{
+	"filename": "firetimer_count_animation_0001.png",
+	"frame": {"x":141,"y":270,"w":132,"h":137},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":132,"h":137},
+	"sourceSize": {"w":148,"h":151}
+},
+{
+	"filename": "firetimer_count_animation_0002.png",
+	"frame": {"x":2,"y":270,"w":132,"h":137},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":132,"h":137},
+	"sourceSize": {"w":148,"h":151}
+},
+{
+	"filename": "firetimer_count_animation_0003.png",
+	"frame": {"x":280,"y":136,"w":132,"h":137},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":132,"h":137},
+	"sourceSize": {"w":148,"h":151}
+},
+{
+	"filename": "firetimer_count_animation_0004.png",
+	"frame": {"x":141,"y":136,"w":132,"h":137},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":132,"h":137},
+	"sourceSize": {"w":148,"h":151}
+},
+{
+	"filename": "firetimer_count_animation_0005.png",
+	"frame": {"x":2,"y":136,"w":132,"h":137},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":132,"h":137},
+	"sourceSize": {"w":148,"h":151}
+},
+{
+	"filename": "firetimer_count_animation_0006.png",
+	"frame": {"x":280,"y":2,"w":132,"h":137},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":132,"h":137},
+	"sourceSize": {"w":148,"h":151}
+},
+{
+	"filename": "firetimer_count_animation_0007.png",
+	"frame": {"x":141,"y":2,"w":132,"h":137},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":132,"h":137},
+	"sourceSize": {"w":148,"h":151}
+},
+{
+	"filename": "firetimer_count_animation_0008.png",
+	"frame": {"x":134,"y":668,"w":130,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":130,"h":135},
+	"sourceSize": {"w":148,"h":151}
+},
+{
+	"filename": "firetimer_count_animation_0009.png",
+	"frame": {"x":271,"y":536,"w":130,"h":135},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":130,"h":135},
+	"sourceSize": {"w":148,"h":151}
+},
+{
+	"filename": "firetimer_count_animation_0010.png",
+	"frame": {"x":134,"y":536,"w":130,"h":135},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":130,"h":135},
+	"sourceSize": {"w":148,"h":151}
+},
+{
+	"filename": "firetimer_count_animation_0011.png",
+	"frame": {"x":2,"y":810,"w":130,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":130,"h":135},
+	"sourceSize": {"w":148,"h":151}
+},
+{
+	"filename": "firetimer_count_animation_0012.png",
+	"frame": {"x":2,"y":673,"w":130,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":130,"h":135},
+	"sourceSize": {"w":148,"h":151}
+},
+{
+	"filename": "firetimer_count_animation_0013.png",
+	"frame": {"x":2,"y":536,"w":130,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":130,"h":135},
+	"sourceSize": {"w":148,"h":151}
+},
+{
+	"filename": "firetimer_count_animation_0014.png",
+	"frame": {"x":276,"y":404,"w":130,"h":135},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":130,"h":135},
+	"sourceSize": {"w":148,"h":151}
+},
+{
+	"filename": "firetimer_count_animation_0015.png",
+	"frame": {"x":139,"y":404,"w":130,"h":135},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":130,"h":135},
+	"sourceSize": {"w":148,"h":151}
+},
+{
+	"filename": "firetimer_count_animation_0016.png",
+	"frame": {"x":2,"y":404,"w":130,"h":135},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":130,"h":135},
+	"sourceSize": {"w":148,"h":151}
+},
+{
+	"filename": "firetimer_count_animation_0017.png",
+	"frame": {"x":2,"y":2,"w":132,"h":137},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":132,"h":137},
+	"sourceSize": {"w":148,"h":151}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "firetimer_count_animation.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e8147fe3e77d1cab025eeef5092ee57c$"
+}
+}

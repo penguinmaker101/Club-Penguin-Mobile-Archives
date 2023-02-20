@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "powerbarfire_anim_0000.png",
+	"frame": {"x":2,"y":412,"w":68,"h":37},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":30,"w":68,"h":37},
+	"sourceSize": {"w":462,"h":83}
+},
+{
+	"filename": "powerbarfire_anim_0001.png",
+	"frame": {"x":41,"y":359,"w":110,"h":37},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":30,"w":110,"h":37},
+	"sourceSize": {"w":462,"h":83}
+},
+{
+	"filename": "powerbarfire_anim_0002.png",
+	"frame": {"x":281,"y":359,"w":152,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":30,"w":152,"h":37},
+	"sourceSize": {"w":462,"h":83}
+},
+{
+	"filename": "powerbarfire_anim_0003.png",
+	"frame": {"x":80,"y":116,"w":196,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":30,"w":196,"h":37},
+	"sourceSize": {"w":462,"h":83}
+},
+{
+	"filename": "powerbarfire_anim_0004.png",
+	"frame": {"x":41,"y":471,"w":238,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":30,"w":238,"h":37},
+	"sourceSize": {"w":462,"h":83}
+},
+{
+	"filename": "powerbarfire_anim_0005.png",
+	"frame": {"x":409,"y":77,"w":280,"h":37},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":30,"w":280,"h":37},
+	"sourceSize": {"w":462,"h":83}
+},
+{
+	"filename": "powerbarfire_anim_0006.png",
+	"frame": {"x":2,"y":77,"w":322,"h":37},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":30,"w":322,"h":37},
+	"sourceSize": {"w":462,"h":83}
+},
+{
+	"filename": "powerbarfire_anim_0007.png",
+	"frame": {"x":41,"y":77,"w":366,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":30,"w":366,"h":37},
+	"sourceSize": {"w":462,"h":83}
+},
+{
+	"filename": "powerbarfire_anim_0008.png",
+	"frame": {"x":454,"y":2,"w":408,"h":37},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":30,"w":408,"h":37},
+	"sourceSize": {"w":462,"h":83}
+},
+{
+	"filename": "powerbarfire_anim_0009.png",
+	"frame": {"x":2,"y":2,"w":450,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":450,"h":73},
+	"sourceSize": {"w":462,"h":83}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "powerbarfire_anim.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e566991ea69c05f3fb9fa6898e7eda33$"
+}
+}

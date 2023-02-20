@@ -1,0 +1,212 @@
+{"frames": [
+
+{
+	"filename": "combo_snow_slash_anim_0000.png",
+	"frame": {"x":0,"y":166,"w":608,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-368,"y":38,"w":608,"h":101},
+	"sourceSize": {"w":1024,"h":176}
+},
+{
+	"filename": "combo_snow_slash_anim_0001.png",
+            "frame": {"x":0,"y":166,"w":608,"h":101},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":-59,"y":38,"w":608,"h":101},
+            "sourceSize": {"w":1024,"h":176}
+},
+{
+	"filename": "combo_snow_slash_anim_0002.png",
+	"frame": {"x":0,"y":0,"w":601,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":203,"y":6,"w":601,"h":164},
+	"sourceSize": {"w":1024,"h":176}
+},
+{
+	"filename": "combo_snow_slash_anim_0003.png",
+            "frame": {"x":0,"y":0,"w":601,"h":164},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":213,"y":0,"w":580,"h":175},
+            "sourceSize": {"w":1024,"h":176}
+},
+{
+	"filename": "combo_snow_slash_anim_0004.png",
+            "frame": {"x":0,"y":0,"w":601,"h":164},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":203,"y":6,"w":601,"h":164},
+            "sourceSize": {"w":1024,"h":176}
+},
+{
+	"filename": "combo_snow_slash_anim_0005.png",
+            "frame": {"x":0,"y":0,"w":601,"h":164},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":200,"y":4,"w":605,"h":167},
+            "sourceSize": {"w":1024,"h":176}
+},
+{
+	"filename": "combo_snow_slash_anim_0006.png",
+            "frame": {"x":0,"y":0,"w":601,"h":164},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":202,"y":6,"w":601,"h":164},
+            "sourceSize": {"w":1024,"h":176}
+},
+{
+	"filename": "combo_snow_slash_anim_0007.png",
+            "frame": {"x":0,"y":0,"w":601,"h":164},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":202,"y":6,"w":601,"h":164},
+            "sourceSize": {"w":1024,"h":176}
+},
+{
+	"filename": "combo_snow_slash_anim_0008.png",
+            "frame": {"x":0,"y":0,"w":601,"h":164},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":202,"y":6,"w":601,"h":164},
+            "sourceSize": {"w":1024,"h":176}
+},
+{
+	"filename": "combo_snow_slash_anim_0009.png",
+            "frame": {"x":0,"y":0,"w":601,"h":164},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":202,"y":6,"w":601,"h":164},
+            "sourceSize": {"w":1024,"h":176}
+},
+{
+	"filename": "combo_snow_slash_anim_0010.png",
+            "frame": {"x":0,"y":0,"w":601,"h":164},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":202,"y":6,"w":601,"h":164},
+            "sourceSize": {"w":1024,"h":176}
+},
+{
+	"filename": "combo_snow_slash_anim_0011.png",
+            "frame": {"x":0,"y":0,"w":601,"h":164},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":202,"y":6,"w":601,"h":164},
+            "sourceSize": {"w":1024,"h":176}
+},
+{
+	"filename": "combo_snow_slash_anim_0012.png",
+            "frame": {"x":0,"y":0,"w":601,"h":164},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":202,"y":6,"w":601,"h":164},
+            "sourceSize": {"w":1024,"h":176}
+},
+{
+	"filename": "combo_snow_slash_anim_0013.png",
+            "frame": {"x":0,"y":0,"w":601,"h":164},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":202,"y":6,"w":601,"h":164},
+            "sourceSize": {"w":1024,"h":176}
+},
+{
+	"filename": "combo_snow_slash_anim_0014.png",
+            "frame": {"x":0,"y":0,"w":601,"h":164},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":202,"y":6,"w":601,"h":164},
+            "sourceSize": {"w":1024,"h":176}
+},
+{
+	"filename": "combo_snow_slash_anim_0015.png",
+            "frame": {"x":0,"y":0,"w":601,"h":164},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":202,"y":6,"w":601,"h":164},
+            "sourceSize": {"w":1024,"h":176}
+},
+{
+	"filename": "combo_snow_slash_anim_0016.png",
+            "frame": {"x":0,"y":0,"w":601,"h":164},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":202,"y":6,"w":601,"h":164},
+            "sourceSize": {"w":1024,"h":176}
+},
+{
+	"filename": "combo_snow_slash_anim_0017.png",
+            "frame": {"x":0,"y":0,"w":601,"h":164},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":202,"y":6,"w":601,"h":164},
+            "sourceSize": {"w":1024,"h":176}
+},
+{
+	"filename": "combo_snow_slash_anim_0018.png",
+            "frame": {"x":0,"y":0,"w":601,"h":164},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":202,"y":6,"w":601,"h":164},
+            "sourceSize": {"w":1024,"h":176}
+},
+{
+	"filename": "combo_snow_slash_anim_0019.png",
+            "frame": {"x":0,"y":0,"w":601,"h":164},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":202,"y":6,"w":601,"h":164},
+            "sourceSize": {"w":1024,"h":176}
+},
+{
+	"filename": "combo_snow_slash_anim_0020.png",
+            "frame": {"x":0,"y":0,"w":601,"h":164},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":202,"y":6,"w":601,"h":164},
+            "sourceSize": {"w":1024,"h":176}
+},
+{
+	"filename": "combo_snow_slash_anim_0021.png",
+            "frame": {"x":0,"y":0,"w":601,"h":164},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":272,"y":6,"w":601,"h":164},
+            "sourceSize": {"w":1024,"h":176}
+},
+{
+	"filename": "combo_snow_slash_anim_0022.png",
+            "frame": {"x":0,"y":0,"w":601,"h":164},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":333,"y":6,"w":601,"h":164},
+            "sourceSize": {"w":1024,"h":176}
+},
+{
+	"filename": "combo_snow_slash_anim_0023.png",
+            "frame": {"x":0,"y":166,"w":608,"h":101},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":673,"y":38,"w":608,"h":101},
+            "sourceSize": {"w":1024,"h":176}
+},
+{
+	"filename": "combo_snow_slash_anim_0024.png",
+            "frame": {"x":0,"y":166,"w":608,"h":101},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":998,"y":38,"w":608,"h":101},
+            "sourceSize": {"w":1024,"h":176}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "combo_snow_slash_anim.png",
+	"format": "RGBA8888",
+	"size": {"w":608,"h":267},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:24a72a0e3480005c376cc5567a475e43$"
+}
+}

@@ -1,0 +1,236 @@
+{"frames": [
+
+{
+	"filename": "sensei_beard_anim_0000.png",
+	"frame": {"x":2,"y":2,"w":158,"h":359},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":158,"h":359},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0001.png",
+	"frame": {"x":2,"y":2,"w":158,"h":359},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":158,"h":359},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0002.png",
+	"frame": {"x":162,"y":2,"w":154,"h":357},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":2,"w":154,"h":357},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0003.png",
+	"frame": {"x":162,"y":2,"w":154,"h":357},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":2,"w":154,"h":357},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0004.png",
+	"frame": {"x":316,"y":361,"w":152,"h":357},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":2,"w":152,"h":357},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0005.png",
+	"frame": {"x":316,"y":361,"w":152,"h":357},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":2,"w":152,"h":357},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0006.png",
+	"frame": {"x":318,"y":2,"w":158,"h":355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":2,"w":158,"h":355},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0007.png",
+	"frame": {"x":318,"y":2,"w":158,"h":355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":2,"w":158,"h":355},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0008.png",
+	"frame": {"x":2,"y":724,"w":160,"h":349},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":2,"w":160,"h":349},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0009.png",
+	"frame": {"x":2,"y":724,"w":160,"h":349},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":2,"w":160,"h":349},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0010.png",
+	"frame": {"x":478,"y":2,"w":160,"h":343},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":2,"w":160,"h":343},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0011.png",
+	"frame": {"x":478,"y":2,"w":160,"h":343},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":2,"w":160,"h":343},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0012.png",
+	"frame": {"x":2,"y":886,"w":136,"h":335},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":1,"w":136,"h":335},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0013.png",
+	"frame": {"x":2,"y":886,"w":136,"h":335},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":1,"w":136,"h":335},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0014.png",
+	"frame": {"x":610,"y":347,"w":126,"h":341},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":1,"w":126,"h":341},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0015.png",
+	"frame": {"x":610,"y":347,"w":126,"h":341},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":1,"w":126,"h":341},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0016.png",
+	"frame": {"x":339,"y":886,"w":132,"h":345},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":1,"w":132,"h":345},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0017.png",
+	"frame": {"x":339,"y":886,"w":132,"h":345},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":1,"w":132,"h":345},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0018.png",
+	"frame": {"x":470,"y":359,"w":138,"h":351},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":2,"w":138,"h":351},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0019.png",
+	"frame": {"x":470,"y":359,"w":138,"h":351},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":2,"w":138,"h":351},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0020.png",
+	"frame": {"x":640,"y":2,"w":150,"h":337},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":3,"w":150,"h":337},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0021.png",
+	"frame": {"x":640,"y":2,"w":150,"h":337},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":3,"w":150,"h":337},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0022.png",
+	"frame": {"x":353,"y":720,"w":160,"h":345},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":160,"h":345},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0023.png",
+	"frame": {"x":353,"y":720,"w":160,"h":345},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":160,"h":345},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0024.png",
+	"frame": {"x":160,"y":363,"w":154,"h":357},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":154,"h":357},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0025.png",
+	"frame": {"x":160,"y":363,"w":154,"h":357},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":154,"h":357},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0026.png",
+	"frame": {"x":2,"y":363,"w":156,"h":359},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":156,"h":359},
+	"sourceSize": {"w":182,"h":359}
+},
+{
+	"filename": "sensei_beard_anim_0027.png",
+	"frame": {"x":2,"y":363,"w":156,"h":359},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":156,"h":359},
+	"sourceSize": {"w":182,"h":359}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "sensei_beard_anim.png",
+	"format": "RGBA5555",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:10931ebd9ab226ef24fd1588965d6b81$"
+}
+}

@@ -1,0 +1,116 @@
+{"frames": [
+
+{
+	"filename": "effect_smoke_small_anim_0000.png",
+	"frame": {"x":127,"y":270,"w":79,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":116,"w":79,"h":23},
+	"sourceSize": {"w":141,"h":139}
+},
+{
+	"filename": "effect_smoke_small_anim_0001.png",
+	"frame": {"x":141,"y":104,"w":97,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":108,"w":97,"h":29},
+	"sourceSize": {"w":141,"h":139}
+},
+{
+	"filename": "effect_smoke_small_anim_0002.png",
+	"frame": {"x":145,"y":59,"w":99,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":94,"w":99,"h":43},
+	"sourceSize": {"w":141,"h":139}
+},
+{
+	"filename": "effect_smoke_small_anim_0003.png",
+	"frame": {"x":2,"y":269,"w":123,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":67,"w":123,"h":67},
+	"sourceSize": {"w":141,"h":139}
+},
+{
+	"filename": "effect_smoke_small_anim_0004.png",
+	"frame": {"x":141,"y":135,"w":133,"h":93},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":40,"w":133,"h":93},
+	"sourceSize": {"w":141,"h":139}
+},
+{
+	"filename": "effect_smoke_small_anim_0005.png",
+	"frame": {"x":2,"y":2,"w":141,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":11,"w":141,"h":93},
+	"sourceSize": {"w":141,"h":139}
+},
+{
+	"filename": "effect_smoke_small_anim_0006.png",
+	"frame": {"x":2,"y":2,"w":141,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":11,"w":141,"h":93},
+	"sourceSize": {"w":141,"h":139}
+},
+{
+	"filename": "effect_smoke_small_anim_0007.png",
+	"frame": {"x":2,"y":97,"w":137,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":10,"w":137,"h":83},
+	"sourceSize": {"w":141,"h":139}
+},
+{
+	"filename": "effect_smoke_small_anim_0008.png",
+	"frame": {"x":2,"y":182,"w":129,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":1,"w":129,"h":85},
+	"sourceSize": {"w":141,"h":139}
+},
+{
+	"filename": "effect_smoke_small_anim_0009.png",
+	"frame": {"x":145,"y":2,"w":99,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":2,"w":99,"h":55},
+	"sourceSize": {"w":141,"h":139}
+},
+{
+	"filename": "effect_smoke_small_anim_0010.png",
+	"frame": {"x":127,"y":295,"w":61,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":4,"w":61,"h":23},
+	"sourceSize": {"w":141,"h":139}
+},
+{
+	"filename": "effect_smoke_small_anim_0011.png",
+	"frame": {"x":127,"y":295,"w":61,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":4,"w":61,"h":23},
+	"sourceSize": {"w":141,"h":139}
+},
+{
+	"filename": "effect_smoke_small_anim_0012.png",
+	"frame": {"x":208,"y":270,"w":57,"h":25},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":57,"h":25},
+	"sourceSize": {"w":141,"h":139}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "effect_smoke_small_anim.png",
+	"format": "RGBA5555",
+	"size": {"w":256,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c673e3a4e4c6778504422f0bc23102c3$"
+}
+}

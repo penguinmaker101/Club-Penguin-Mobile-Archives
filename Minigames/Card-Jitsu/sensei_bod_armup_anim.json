@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "sensei_bod_armup_anim_0000.png",
+	"frame": {"x":534,"y":500,"w":488,"h":496},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":488,"h":496},
+	"sourceSize": {"w":530,"h":502}
+},
+{
+	"filename": "sensei_bod_armup_anim_0001.png",
+	"frame": {"x":534,"y":2,"w":488,"h":496},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":488,"h":496},
+	"sourceSize": {"w":530,"h":502}
+},
+{
+	"filename": "sensei_bod_armup_anim_0002.png",
+	"frame": {"x":2,"y":2,"w":530,"h":500},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":530,"h":500},
+	"sourceSize": {"w":530,"h":502}
+},
+{
+	"filename": "sensei_bod_armup_anim_0003.png",
+	"frame": {"x":2,"y":2,"w":530,"h":500},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":530,"h":500},
+	"sourceSize": {"w":530,"h":502}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "sensei_bod_armup_anim.png",
+	"format": "RGBA5555",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:847d1611b533db1c25dbefca5e710282$"
+}
+}

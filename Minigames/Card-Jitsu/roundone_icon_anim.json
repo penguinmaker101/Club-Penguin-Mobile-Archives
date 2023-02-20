@@ -1,0 +1,124 @@
+{"frames": [
+
+{
+	"filename": "roundone_icon_anim_0000.png",
+	"frame": {"x":140,"y":202,"w":60,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":7,"w":60,"h":67},
+	"sourceSize": {"w":74,"h":81}
+},
+{
+	"filename": "roundone_icon_anim_0001.png",
+	"frame": {"x":2,"y":202,"w":60,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":7,"w":60,"h":67},
+	"sourceSize": {"w":74,"h":81}
+},
+{
+	"filename": "roundone_icon_anim_0002.png",
+	"frame": {"x":71,"y":142,"w":60,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":7,"w":60,"h":67},
+	"sourceSize": {"w":74,"h":81}
+},
+{
+	"filename": "roundone_icon_anim_0003.png",
+	"frame": {"x":156,"y":140,"w":60,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":7,"w":60,"h":67},
+	"sourceSize": {"w":74,"h":81}
+},
+{
+	"filename": "roundone_icon_anim_0004.png",
+	"frame": {"x":2,"y":140,"w":60,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":7,"w":60,"h":67},
+	"sourceSize": {"w":74,"h":81}
+},
+{
+	"filename": "roundone_icon_anim_0005.png",
+	"frame": {"x":209,"y":202,"w":34,"h":39},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":21,"w":34,"h":39},
+	"sourceSize": {"w":74,"h":81}
+},
+{
+	"filename": "roundone_icon_anim_0006.png",
+	"frame": {"x":71,"y":204,"w":48,"h":53},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":14,"w":48,"h":53},
+	"sourceSize": {"w":74,"h":81}
+},
+{
+	"filename": "roundone_icon_anim_0007.png",
+	"frame": {"x":2,"y":78,"w":60,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":7,"w":60,"h":67},
+	"sourceSize": {"w":74,"h":81}
+},
+{
+	"filename": "roundone_icon_anim_0008.png",
+	"frame": {"x":2,"y":2,"w":74,"h":81},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":81},
+	"sourceSize": {"w":74,"h":81}
+},
+{
+	"filename": "roundone_icon_anim_0009.png",
+	"frame": {"x":85,"y":2,"w":72,"h":79},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":72,"h":79},
+	"sourceSize": {"w":74,"h":81}
+},
+{
+	"filename": "roundone_icon_anim_0010.png",
+	"frame": {"x":166,"y":2,"w":68,"h":75},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":68,"h":75},
+	"sourceSize": {"w":74,"h":81}
+},
+{
+	"filename": "roundone_icon_anim_0011.png",
+	"frame": {"x":166,"y":72,"w":66,"h":73},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":4,"w":66,"h":73},
+	"sourceSize": {"w":74,"h":81}
+},
+{
+	"filename": "roundone_icon_anim_0012.png",
+	"frame": {"x":85,"y":76,"w":64,"h":69},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":6,"w":64,"h":69},
+	"sourceSize": {"w":74,"h":81}
+},
+{
+	"filename": "roundone_icon_anim_0013.png",
+	"frame": {"x":140,"y":202,"w":60,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":7,"w":60,"h":67},
+	"sourceSize": {"w":74,"h":81}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "roundone_icon_anim.png",
+	"format": "RGBA5555",
+	"size": {"w":256,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fdceafcd5291e5f40db02ab58da7b1a1$"
+}
+}

@@ -1,0 +1,199 @@
+{"frames": [
+
+{
+	"filename": "combo_sensei_slash_anim_0000.png",
+	"frame": {"x":0,"y":488,"w":547,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-374,"y":131,"w":547,"h":252},
+	"sourceSize": {"w":1024,"h":515}
+},
+{
+	"filename": "combo_sensei_slash_anim_0001.png",
+            "frame": {"x":0,"y":488,"w":547,"h":252},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":-198,"y":131,"w":547,"h":252},
+            "sourceSize": {"w":1024,"h":515}
+},
+{
+	"filename": "combo_sensei_slash_anim_0002.png",
+	"frame": {"x":0,"y":0,"w":711,"h":486},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-118,"y":1,"w":696,"h":513},
+	"sourceSize": {"w":1024,"h":515}
+},
+{
+	"filename": "combo_sensei_slash_anim_0003.png",
+            "frame": {"x":0,"y":0,"w":711,"h":486},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":-31,"y":1,"w":696,"h":513},
+            "sourceSize": {"w":1024,"h":515}
+},
+            
+{
+	"filename": "combo_sensei_slash_anim_0004.png",
+            "frame": {"x":0,"y":0,"w":711,"h":486},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":-55,"y":15,"w":711,"h":486},
+            "sourceSize": {"w":1024,"h":515}
+},
+{
+	"filename": "combo_sensei_slash_anim_0005.png",
+            "frame": {"x":0,"y":0,"w":711,"h":486},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":-55,"y":15,"w":711,"h":486},
+            "sourceSize": {"w":1024,"h":515}
+},
+{
+	"filename": "combo_sensei_slash_anim_0006.png",
+            "frame": {"x":0,"y":0,"w":711,"h":486},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":-55,"y":15,"w":711,"h":486},
+            "sourceSize": {"w":1024,"h":515}
+},
+{
+	"filename": "combo_sensei_slash_anim_0007.png",
+            "frame": {"x":0,"y":0,"w":711,"h":486},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":-55,"y":15,"w":711,"h":486},
+            "sourceSize": {"w":1024,"h":515}
+},
+{
+	"filename": "combo_sensei_slash_anim_0008.png",
+            "frame": {"x":0,"y":0,"w":711,"h":486},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":-55,"y":15,"w":711,"h":486},
+            "sourceSize": {"w":1024,"h":515}
+},
+{
+	"filename": "combo_sensei_slash_anim_0009.png",
+            "frame": {"x":0,"y":0,"w":711,"h":486},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":-55,"y":15,"w":711,"h":486},
+            "sourceSize": {"w":1024,"h":515}
+},
+{
+	"filename": "combo_sensei_slash_anim_0010.png",
+            "frame": {"x":0,"y":0,"w":711,"h":486},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":-55,"y":15,"w":711,"h":486},
+            "sourceSize": {"w":1024,"h":515}
+},
+{
+	"filename": "combo_sensei_slash_anim_0011.png",
+            "frame": {"x":0,"y":0,"w":711,"h":486},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":-55,"y":15,"w":711,"h":486},
+            "sourceSize": {"w":1024,"h":515}
+},
+{
+	"filename": "combo_sensei_slash_anim_0012.png",
+            "frame": {"x":0,"y":0,"w":711,"h":486},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":-55,"y":15,"w":711,"h":486},
+            "sourceSize": {"w":1024,"h":515}
+},
+{
+	"filename": "combo_sensei_slash_anim_0013.png",
+            "frame": {"x":0,"y":0,"w":711,"h":486},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":-55,"y":15,"w":711,"h":486},
+            "sourceSize": {"w":1024,"h":515}
+},
+{
+	"filename": "combo_sensei_slash_anim_0014.png",
+            "frame": {"x":0,"y":0,"w":711,"h":486},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":-55,"y":15,"w":711,"h":486},
+            "sourceSize": {"w":1024,"h":515}
+},
+{
+	"filename": "combo_sensei_slash_anim_0015.png",
+            "frame": {"x":0,"y":0,"w":711,"h":486},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":-55,"y":15,"w":711,"h":486},
+            "sourceSize": {"w":1024,"h":515}
+},
+{
+	"filename": "combo_sensei_slash_anim_0016.png",
+            "frame": {"x":0,"y":0,"w":711,"h":486},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":-55,"y":15,"w":711,"h":486},
+            "sourceSize": {"w":1024,"h":515}
+},
+{
+	"filename": "combo_sensei_slash_anim_0017.png",
+            "frame": {"x":0,"y":0,"w":711,"h":486},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":-55,"y":15,"w":711,"h":486},
+            "sourceSize": {"w":1024,"h":515}
+},
+{
+	"filename": "combo_sensei_slash_anim_0018.png",
+            "frame": {"x":0,"y":0,"w":711,"h":486},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":-55,"y":15,"w":711,"h":486},
+            "sourceSize": {"w":1024,"h":515}
+},
+{
+	"filename": "combo_sensei_slash_anim_0019.png",
+            "frame": {"x":0,"y":0,"w":711,"h":486},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":-41,"y":15,"w":711,"h":486},
+            "sourceSize": {"w":1024,"h":515}
+},
+{
+	"filename": "combo_sensei_slash_anim_0020.png",
+            "frame": {"x":0,"y":0,"w":711,"h":486},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":-1,"y":15,"w":711,"h":486},
+            "sourceSize": {"w":1024,"h":515}
+},
+            
+            
+{
+	"filename": "combo_sensei_slash_anim_0021.png",
+            "frame": {"x":0,"y":488,"w":547,"h":252},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":470,"y":131,"w":547,"h":252},
+            "sourceSize": {"w":1024,"h":515}
+},
+{
+	"filename": "combo_sensei_slash_anim_0022.png",
+            "frame": {"x":0,"y":488,"w":547,"h":252},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":795,"y":131,"w":547,"h":252},
+            "sourceSize": {"w":1024,"h":515}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "combo_sensei_slash_anim.png",
+	"format": "RGBA8888",
+	"size": {"w":711,"h":740},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:526d7f5f87db7a4afc37de6cd5c7df17$"
+}
+}

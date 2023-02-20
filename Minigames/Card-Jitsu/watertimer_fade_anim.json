@@ -1,0 +1,116 @@
+{"frames": [
+
+{
+	"filename": "watertimer_fade_anim_0000.png",
+	"frame": {"x":2,"y":610,"w":150,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":150,"h":151},
+	"sourceSize": {"w":162,"h":165}
+},
+{
+	"filename": "watertimer_fade_anim_0001.png",
+	"frame": {"x":308,"y":458,"w":150,"h":151},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":150,"h":151},
+	"sourceSize": {"w":162,"h":165}
+},
+{
+	"filename": "watertimer_fade_anim_0002.png",
+	"frame": {"x":155,"y":458,"w":150,"h":151},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":150,"h":151},
+	"sourceSize": {"w":162,"h":165}
+},
+{
+	"filename": "watertimer_fade_anim_0003.png",
+	"frame": {"x":2,"y":458,"w":150,"h":151},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":150,"h":151},
+	"sourceSize": {"w":162,"h":165}
+},
+{
+	"filename": "watertimer_fade_anim_0004.png",
+	"frame": {"x":308,"y":306,"w":150,"h":151},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":150,"h":151},
+	"sourceSize": {"w":162,"h":165}
+},
+{
+	"filename": "watertimer_fade_anim_0005.png",
+	"frame": {"x":155,"y":306,"w":150,"h":151},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":150,"h":151},
+	"sourceSize": {"w":162,"h":165}
+},
+{
+	"filename": "watertimer_fade_anim_0006.png",
+	"frame": {"x":2,"y":306,"w":150,"h":151},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":150,"h":151},
+	"sourceSize": {"w":162,"h":165}
+},
+{
+	"filename": "watertimer_fade_anim_0007.png",
+	"frame": {"x":308,"y":154,"w":150,"h":151},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":150,"h":151},
+	"sourceSize": {"w":162,"h":165}
+},
+{
+	"filename": "watertimer_fade_anim_0008.png",
+	"frame": {"x":155,"y":154,"w":150,"h":151},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":150,"h":151},
+	"sourceSize": {"w":162,"h":165}
+},
+{
+	"filename": "watertimer_fade_anim_0009.png",
+	"frame": {"x":2,"y":154,"w":150,"h":151},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":150,"h":151},
+	"sourceSize": {"w":162,"h":165}
+},
+{
+	"filename": "watertimer_fade_anim_0010.png",
+	"frame": {"x":308,"y":2,"w":150,"h":151},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":150,"h":151},
+	"sourceSize": {"w":162,"h":165}
+},
+{
+	"filename": "watertimer_fade_anim_0011.png",
+	"frame": {"x":155,"y":2,"w":150,"h":151},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":150,"h":151},
+	"sourceSize": {"w":162,"h":165}
+},
+{
+	"filename": "watertimer_fade_anim_0012.png",
+	"frame": {"x":2,"y":2,"w":150,"h":151},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":150,"h":151},
+	"sourceSize": {"w":162,"h":165}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "watertimer_fade_anim.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2d6d66d4a3cfc98b60ad417072a35889$"
+}
+}

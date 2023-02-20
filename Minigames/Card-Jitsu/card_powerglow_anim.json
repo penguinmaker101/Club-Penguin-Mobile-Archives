@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "card_powerglow_anim_0000.png",
+	"frame": {"x":286,"y":2,"w":282,"h":297},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":282,"h":297},
+	"sourceSize": {"w":288,"h":311}
+},
+{
+	"filename": "card_powerglow_anim_0001.png",
+	"frame": {"x":286,"y":2,"w":282,"h":297},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":282,"h":297},
+	"sourceSize": {"w":288,"h":311}
+},
+{
+	"filename": "card_powerglow_anim_0002.png",
+	"frame": {"x":2,"y":618,"w":278,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":278,"h":303},
+	"sourceSize": {"w":288,"h":311}
+},
+{
+	"filename": "card_powerglow_anim_0003.png",
+	"frame": {"x":2,"y":618,"w":278,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":278,"h":303},
+	"sourceSize": {"w":288,"h":311}
+},
+{
+	"filename": "card_powerglow_anim_0004.png",
+	"frame": {"x":276,"y":311,"w":276,"h":301},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":6,"w":276,"h":301},
+	"sourceSize": {"w":288,"h":311}
+},
+{
+	"filename": "card_powerglow_anim_0005.png",
+	"frame": {"x":276,"y":311,"w":276,"h":301},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":6,"w":276,"h":301},
+	"sourceSize": {"w":288,"h":311}
+},
+{
+	"filename": "card_powerglow_anim_0006.png",
+	"frame": {"x":2,"y":311,"w":272,"h":305},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":5,"w":272,"h":305},
+	"sourceSize": {"w":288,"h":311}
+},
+{
+	"filename": "card_powerglow_anim_0007.png",
+	"frame": {"x":2,"y":311,"w":272,"h":305},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":5,"w":272,"h":305},
+	"sourceSize": {"w":288,"h":311}
+},
+{
+	"filename": "card_powerglow_anim_0008.png",
+	"frame": {"x":2,"y":2,"w":282,"h":307},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":1,"w":282,"h":307},
+	"sourceSize": {"w":288,"h":311}
+},
+{
+	"filename": "card_powerglow_anim_0009.png",
+	"frame": {"x":2,"y":2,"w":282,"h":307},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":1,"w":282,"h":307},
+	"sourceSize": {"w":288,"h":311}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "card_powerglow_anim.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fc2bbd153cce9dd1b352d6bafe781898$"
+}
+}

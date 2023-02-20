@@ -1,0 +1,444 @@
+{"frames": [
+
+{
+	"filename": "swipe_anim_0000.png",
+	"frame": {"x":1005,"y":2,"w":1,"h":1},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":1},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0001.png",
+	"frame": {"x":944,"y":2,"w":180,"h":59},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":206,"w":180,"h":59},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0002.png",
+	"frame": {"x":870,"y":746,"w":646,"h":149},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":160,"w":646,"h":149},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0003.png",
+	"frame": {"x":2,"y":2,"w":940,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":148,"w":940,"h":173},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0004.png",
+	"frame": {"x":2,"y":819,"w":844,"h":373},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":52,"w":844,"h":373},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0005.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0006.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0007.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0008.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0009.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0010.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0011.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0012.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0013.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0014.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0015.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0016.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0017.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0018.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0019.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0020.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0021.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0022.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0023.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0024.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0025.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0026.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0027.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0028.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0029.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0030.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0031.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0032.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0033.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0034.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0035.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0036.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0037.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0038.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0039.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0040.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0041.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0042.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0043.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0044.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0045.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0046.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0047.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0048.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0049.png",
+	"frame": {"x":2,"y":177,"w":876,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":876,"h":481},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0050.png",
+	"frame": {"x":2,"y":660,"w":866,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":156,"w":866,"h":157},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0051.png",
+	"frame": {"x":880,"y":184,"w":560,"h":141},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":464,"y":160,"w":560,"h":141},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0052.png",
+	"frame": {"x":2,"y":1394,"w":188,"h":81},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":836,"y":172,"w":188,"h":81},
+	"sourceSize": {"w":1024,"h":481}
+},
+{
+	"filename": "swipe_anim_0053.png",
+	"frame": {"x":1005,"y":2,"w":1,"h":1},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":1},
+	"sourceSize": {"w":1024,"h":481}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "swipe_anim.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:eedd15c968b7ab13ee23553b10e50062$"
+}
+}

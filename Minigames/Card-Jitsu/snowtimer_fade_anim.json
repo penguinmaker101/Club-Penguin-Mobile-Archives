@@ -1,0 +1,116 @@
+{"frames": [
+
+{
+	"filename": "snowtimer_fade_anim_0000.png",
+	"frame": {"x":2,"y":606,"w":152,"h":149},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":152,"h":149},
+	"sourceSize": {"w":166,"h":161}
+},
+{
+	"filename": "snowtimer_fade_anim_0001.png",
+	"frame": {"x":310,"y":455,"w":152,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":152,"h":149},
+	"sourceSize": {"w":166,"h":161}
+},
+{
+	"filename": "snowtimer_fade_anim_0002.png",
+	"frame": {"x":156,"y":455,"w":152,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":152,"h":149},
+	"sourceSize": {"w":166,"h":161}
+},
+{
+	"filename": "snowtimer_fade_anim_0003.png",
+	"frame": {"x":2,"y":455,"w":152,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":152,"h":149},
+	"sourceSize": {"w":166,"h":161}
+},
+{
+	"filename": "snowtimer_fade_anim_0004.png",
+	"frame": {"x":310,"y":304,"w":152,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":152,"h":149},
+	"sourceSize": {"w":166,"h":161}
+},
+{
+	"filename": "snowtimer_fade_anim_0005.png",
+	"frame": {"x":156,"y":304,"w":152,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":152,"h":149},
+	"sourceSize": {"w":166,"h":161}
+},
+{
+	"filename": "snowtimer_fade_anim_0006.png",
+	"frame": {"x":2,"y":304,"w":152,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":152,"h":149},
+	"sourceSize": {"w":166,"h":161}
+},
+{
+	"filename": "snowtimer_fade_anim_0007.png",
+	"frame": {"x":310,"y":153,"w":152,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":152,"h":149},
+	"sourceSize": {"w":166,"h":161}
+},
+{
+	"filename": "snowtimer_fade_anim_0008.png",
+	"frame": {"x":156,"y":153,"w":152,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":152,"h":149},
+	"sourceSize": {"w":166,"h":161}
+},
+{
+	"filename": "snowtimer_fade_anim_0009.png",
+	"frame": {"x":2,"y":153,"w":152,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":152,"h":149},
+	"sourceSize": {"w":166,"h":161}
+},
+{
+	"filename": "snowtimer_fade_anim_0010.png",
+	"frame": {"x":310,"y":2,"w":152,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":152,"h":149},
+	"sourceSize": {"w":166,"h":161}
+},
+{
+	"filename": "snowtimer_fade_anim_0011.png",
+	"frame": {"x":156,"y":2,"w":152,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":152,"h":149},
+	"sourceSize": {"w":166,"h":161}
+},
+{
+	"filename": "snowtimer_fade_anim_0012.png",
+	"frame": {"x":2,"y":2,"w":152,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":152,"h":149},
+	"sourceSize": {"w":166,"h":161}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "snowtimer_fade_anim.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1782345f420ec15b37c0a45fc3205969$"
+}
+}

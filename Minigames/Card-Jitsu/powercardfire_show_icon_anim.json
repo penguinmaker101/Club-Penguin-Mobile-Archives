@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "powercardfire_show_icon_anim_0000.png",
+	"frame": {"x":41,"y":94,"w":29,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":20,"w":29,"h":29},
+	"sourceSize": {"w":73,"h":75}
+},
+{
+	"filename": "powercardfire_show_icon_anim_0001.png",
+	"frame": {"x":41,"y":55,"w":33,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":16,"w":33,"h":37},
+	"sourceSize": {"w":73,"h":75}
+},
+{
+	"filename": "powercardfire_show_icon_anim_0002.png",
+	"frame": {"x":2,"y":55,"w":37,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":12,"w":37,"h":43},
+	"sourceSize": {"w":73,"h":75}
+},
+{
+	"filename": "powercardfire_show_icon_anim_0003.png",
+	"frame": {"x":2,"y":2,"w":45,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":10,"w":45,"h":51},
+	"sourceSize": {"w":73,"h":75}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "powercardfire_show_icon_anim.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6daab1580d67b0f1fbf5dca9b89ff155$"
+}
+}

@@ -1,0 +1,116 @@
+{"frames": [
+
+{
+	"filename": "firetimer_fade_animation_0000.png",
+	"frame": {"x":2,"y":606,"w":155,"h":149},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":155,"h":149},
+	"sourceSize": {"w":167,"h":161}
+},
+{
+	"filename": "firetimer_fade_animation_0001.png",
+	"frame": {"x":316,"y":455,"w":155,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":155,"h":149},
+	"sourceSize": {"w":167,"h":161}
+},
+{
+	"filename": "firetimer_fade_animation_0002.png",
+	"frame": {"x":159,"y":455,"w":155,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":155,"h":149},
+	"sourceSize": {"w":167,"h":161}
+},
+{
+	"filename": "firetimer_fade_animation_0003.png",
+	"frame": {"x":2,"y":455,"w":155,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":155,"h":149},
+	"sourceSize": {"w":167,"h":161}
+},
+{
+	"filename": "firetimer_fade_animation_0004.png",
+	"frame": {"x":316,"y":304,"w":155,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":155,"h":149},
+	"sourceSize": {"w":167,"h":161}
+},
+{
+	"filename": "firetimer_fade_animation_0005.png",
+	"frame": {"x":159,"y":304,"w":155,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":155,"h":149},
+	"sourceSize": {"w":167,"h":161}
+},
+{
+	"filename": "firetimer_fade_animation_0006.png",
+	"frame": {"x":2,"y":304,"w":155,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":155,"h":149},
+	"sourceSize": {"w":167,"h":161}
+},
+{
+	"filename": "firetimer_fade_animation_0007.png",
+	"frame": {"x":316,"y":153,"w":155,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":155,"h":149},
+	"sourceSize": {"w":167,"h":161}
+},
+{
+	"filename": "firetimer_fade_animation_0008.png",
+	"frame": {"x":159,"y":153,"w":155,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":155,"h":149},
+	"sourceSize": {"w":167,"h":161}
+},
+{
+	"filename": "firetimer_fade_animation_0009.png",
+	"frame": {"x":2,"y":153,"w":155,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":155,"h":149},
+	"sourceSize": {"w":167,"h":161}
+},
+{
+	"filename": "firetimer_fade_animation_0010.png",
+	"frame": {"x":316,"y":2,"w":155,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":155,"h":149},
+	"sourceSize": {"w":167,"h":161}
+},
+{
+	"filename": "firetimer_fade_animation_0011.png",
+	"frame": {"x":159,"y":2,"w":155,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":155,"h":149},
+	"sourceSize": {"w":167,"h":161}
+},
+{
+	"filename": "firetimer_fade_animation_0012.png",
+	"frame": {"x":2,"y":2,"w":155,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":155,"h":149},
+	"sourceSize": {"w":167,"h":161}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "firetimer_fade_animation.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e38f303da43628428987667983178b62$"
+}
+}

@@ -1,0 +1,188 @@
+{"frames": [
+
+{
+	"filename": "smokepoof_med_animation_0000.png",
+	"frame": {"x":419,"y":279,"w":89,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":33,"w":89,"h":70},
+	"sourceSize": {"w":179,"h":126}
+},
+{
+	"filename": "smokepoof_med_animation_0001.png",
+	"frame": {"x":121,"y":282,"w":93,"h":74},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":30,"w":93,"h":74},
+	"sourceSize": {"w":179,"h":126}
+},
+{
+	"filename": "smokepoof_med_animation_0002.png",
+	"frame": {"x":198,"y":387,"w":99,"h":78},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":28,"w":99,"h":78},
+	"sourceSize": {"w":179,"h":126}
+},
+{
+	"filename": "smokepoof_med_animation_0003.png",
+	"frame": {"x":198,"y":282,"w":103,"h":80},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":26,"w":103,"h":80},
+	"sourceSize": {"w":179,"h":126}
+},
+{
+	"filename": "smokepoof_med_animation_0004.png",
+	"frame": {"x":423,"y":170,"w":107,"h":84},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":23,"w":107,"h":84},
+	"sourceSize": {"w":179,"h":126}
+},
+{
+	"filename": "smokepoof_med_animation_0005.png",
+	"frame": {"x":419,"y":351,"w":111,"h":88},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":21,"w":111,"h":88},
+	"sourceSize": {"w":179,"h":126}
+},
+{
+	"filename": "smokepoof_med_animation_0006.png",
+	"frame": {"x":104,"y":382,"w":115,"h":92},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":17,"w":115,"h":92},
+	"sourceSize": {"w":179,"h":126}
+},
+{
+	"filename": "smokepoof_med_animation_0007.png",
+	"frame": {"x":2,"y":282,"w":117,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":15,"w":117,"h":96},
+	"sourceSize": {"w":179,"h":126}
+},
+{
+	"filename": "smokepoof_med_animation_0008.png",
+	"frame": {"x":2,"y":382,"w":121,"h":100},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":12,"w":121,"h":100},
+	"sourceSize": {"w":179,"h":126}
+},
+{
+	"filename": "smokepoof_med_animation_0009.png",
+	"frame": {"x":290,"y":278,"w":127,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":11,"w":127,"h":102},
+	"sourceSize": {"w":179,"h":126}
+},
+{
+	"filename": "smokepoof_med_animation_0010.png",
+	"frame": {"x":290,"y":170,"w":131,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":8,"w":131,"h":106},
+	"sourceSize": {"w":179,"h":126}
+},
+{
+	"filename": "smokepoof_med_animation_0011.png",
+	"frame": {"x":2,"y":170,"w":133,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":5,"w":133,"h":110},
+	"sourceSize": {"w":179,"h":126}
+},
+{
+	"filename": "smokepoof_med_animation_0012.png",
+	"frame": {"x":149,"y":166,"w":139,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":2,"w":139,"h":114},
+	"sourceSize": {"w":179,"h":126}
+},
+{
+	"filename": "smokepoof_med_animation_0013.png",
+	"frame": {"x":308,"y":114,"w":141,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":63,"w":141,"h":54},
+	"sourceSize": {"w":179,"h":126}
+},
+{
+	"filename": "smokepoof_med_animation_0014.png",
+	"frame": {"x":2,"y":114,"w":145,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":64,"w":145,"h":54},
+	"sourceSize": {"w":179,"h":126}
+},
+{
+	"filename": "smokepoof_med_animation_0015.png",
+	"frame": {"x":157,"y":110,"w":149,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":65,"w":149,"h":54},
+	"sourceSize": {"w":179,"h":126}
+},
+{
+	"filename": "smokepoof_med_animation_0016.png",
+	"frame": {"x":2,"y":58,"w":153,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":66,"w":153,"h":54},
+	"sourceSize": {"w":179,"h":126}
+},
+{
+	"filename": "smokepoof_med_animation_0017.png",
+	"frame": {"x":344,"y":58,"w":157,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":67,"w":157,"h":54},
+	"sourceSize": {"w":179,"h":126}
+},
+{
+	"filename": "smokepoof_med_animation_0018.png",
+	"frame": {"x":348,"y":2,"w":161,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":68,"w":161,"h":54},
+	"sourceSize": {"w":179,"h":126}
+},
+{
+	"filename": "smokepoof_med_animation_0019.png",
+	"frame": {"x":177,"y":56,"w":165,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":71,"w":165,"h":52},
+	"sourceSize": {"w":179,"h":126}
+},
+{
+	"filename": "smokepoof_med_animation_0020.png",
+	"frame": {"x":177,"y":2,"w":169,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":72,"w":169,"h":52},
+	"sourceSize": {"w":179,"h":126}
+},
+{
+	"filename": "smokepoof_med_animation_0021.png",
+	"frame": {"x":2,"y":2,"w":173,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":72,"w":173,"h":54},
+	"sourceSize": {"w":179,"h":126}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "smokepoof_med_animation.png",
+	"format": "RGBA5555",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:965b635c94e241ee86b47bd2a5491893$"
+}
+}

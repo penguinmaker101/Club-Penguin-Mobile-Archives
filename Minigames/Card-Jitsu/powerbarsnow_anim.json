@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "powerbarsnow_anim_0000.png",
+	"frame": {"x":2,"y":418,"w":68,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":31,"w":68,"h":36},
+	"sourceSize": {"w":468,"h":84}
+},
+{
+	"filename": "powerbarsnow_anim_0001.png",
+	"frame": {"x":40,"y":362,"w":112,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":31,"w":112,"h":36},
+	"sourceSize": {"w":468,"h":84}
+},
+{
+	"filename": "powerbarsnow_anim_0002.png",
+	"frame": {"x":78,"y":362,"w":154,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":31,"w":154,"h":36},
+	"sourceSize": {"w":468,"h":84}
+},
+{
+	"filename": "powerbarsnow_anim_0003.png",
+	"frame": {"x":78,"y":418,"w":198,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":31,"w":198,"h":36},
+	"sourceSize": {"w":468,"h":84}
+},
+{
+	"filename": "powerbarsnow_anim_0004.png",
+	"frame": {"x":40,"y":114,"w":242,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":31,"w":242,"h":36},
+	"sourceSize": {"w":468,"h":84}
+},
+{
+	"filename": "powerbarsnow_anim_0005.png",
+	"frame": {"x":412,"y":76,"w":284,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":31,"w":284,"h":36},
+	"sourceSize": {"w":468,"h":84}
+},
+{
+	"filename": "powerbarsnow_anim_0006.png",
+	"frame": {"x":2,"y":76,"w":326,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":31,"w":326,"h":36},
+	"sourceSize": {"w":468,"h":84}
+},
+{
+	"filename": "powerbarsnow_anim_0007.png",
+	"frame": {"x":40,"y":76,"w":370,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":31,"w":370,"h":36},
+	"sourceSize": {"w":468,"h":84}
+},
+{
+	"filename": "powerbarsnow_anim_0008.png",
+	"frame": {"x":460,"y":2,"w":414,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":31,"w":414,"h":36},
+	"sourceSize": {"w":468,"h":84}
+},
+{
+	"filename": "powerbarsnow_anim_0009.png",
+	"frame": {"x":2,"y":2,"w":456,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":456,"h":72},
+	"sourceSize": {"w":468,"h":84}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "powerbarsnow_anim.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:38eefb294da573c13e9647fd6c1b944a$"
+}
+}

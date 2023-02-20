@@ -1,0 +1,212 @@
+{"frames": [
+
+{
+	"filename": "combo_water_slash_anim_0000.png",
+	"frame": {"x":4,"y":254,"w":561,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":-345,"y":67,"w":561,"h":122},
+	"sourceSize": {"w":1024,"h":257}
+},
+{
+	"filename": "combo_water_slash_anim_0001.png",
+            "frame": {"x":4,"y":254,"w":561,"h":122},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":-36,"y":67,"w":561,"h":122},
+            "sourceSize": {"w":1024,"h":257}
+},
+{
+	"filename": "combo_water_slash_anim_0002.png",
+	"frame": {"x":2,"y":3,"w":654,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":165,"y":9,"w":654,"h":240},
+	"sourceSize": {"w":1024,"h":257}
+},
+{
+	"filename": "combo_water_slash_anim_0003.png",
+            "frame": {"x":2,"y":3,"w":654,"h":240},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":178,"y":1,"w":631,"h":256},
+            "sourceSize": {"w":1024,"h":257}
+},
+{
+	"filename": "combo_water_slash_anim_0004.png",
+            "frame": {"x":2,"y":3,"w":654,"h":240},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":152,"y":9,"w":654,"h":240},
+            "sourceSize": {"w":1024,"h":257}
+},
+{
+	"filename": "combo_water_slash_anim_0005.png",
+            "frame": {"x":2,"y":3,"w":654,"h":240},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":163,"y":6,"w":659,"h":245},
+            "sourceSize": {"w":1024,"h":257}
+},
+{
+	"filename": "combo_water_slash_anim_0006.png",
+            "frame": {"x":2,"y":3,"w":654,"h":240},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":165,"y":9,"w":654,"h":240},
+            "sourceSize": {"w":1024,"h":257}
+},
+{
+	"filename": "combo_water_slash_anim_0007.png",
+            "frame": {"x":2,"y":3,"w":654,"h":240},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":165,"y":9,"w":654,"h":240},
+            "sourceSize": {"w":1024,"h":257}
+},
+{
+	"filename": "combo_water_slash_anim_0008.png",
+            "frame": {"x":2,"y":3,"w":654,"h":240},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":165,"y":9,"w":654,"h":240},
+            "sourceSize": {"w":1024,"h":257}
+},
+{
+	"filename": "combo_water_slash_anim_0009.png",
+            "frame": {"x":2,"y":3,"w":654,"h":240},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":165,"y":9,"w":654,"h":240},
+            "sourceSize": {"w":1024,"h":257}
+},
+{
+	"filename": "combo_water_slash_anim_0010.png",
+            "frame": {"x":2,"y":3,"w":654,"h":240},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":165,"y":9,"w":654,"h":240},
+            "sourceSize": {"w":1024,"h":257}
+},
+{
+	"filename": "combo_water_slash_anim_0011.png",
+            "frame": {"x":2,"y":3,"w":654,"h":240},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":165,"y":9,"w":654,"h":240},
+            "sourceSize": {"w":1024,"h":257}
+},
+{
+	"filename": "combo_water_slash_anim_0012.png",
+            "frame": {"x":2,"y":3,"w":654,"h":240},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":165,"y":9,"w":654,"h":240},
+            "sourceSize": {"w":1024,"h":257}
+},
+{
+	"filename": "combo_water_slash_anim_0013.png",
+            "frame": {"x":2,"y":3,"w":654,"h":240},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":165,"y":9,"w":654,"h":240},
+            "sourceSize": {"w":1024,"h":257}
+},
+{
+	"filename": "combo_water_slash_anim_0014.png",
+            "frame": {"x":2,"y":3,"w":654,"h":240},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":165,"y":9,"w":654,"h":240},
+            "sourceSize": {"w":1024,"h":257}
+},
+{
+	"filename": "combo_water_slash_anim_0015.png",
+            "frame": {"x":2,"y":3,"w":654,"h":240},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":165,"y":9,"w":654,"h":240},
+            "sourceSize": {"w":1024,"h":257}
+},
+{
+	"filename": "combo_water_slash_anim_0016.png",
+            "frame": {"x":2,"y":3,"w":654,"h":240},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":165,"y":9,"w":654,"h":240},
+            "sourceSize": {"w":1024,"h":257}
+},
+{
+	"filename": "combo_water_slash_anim_0017.png",
+            "frame": {"x":2,"y":3,"w":654,"h":240},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":165,"y":9,"w":654,"h":240},
+            "sourceSize": {"w":1024,"h":257}
+},
+{
+	"filename": "combo_water_slash_anim_0018.png",
+            "frame": {"x":2,"y":3,"w":654,"h":240},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":165,"y":9,"w":654,"h":240},
+            "sourceSize": {"w":1024,"h":257}
+},
+{
+	"filename": "combo_water_slash_anim_0019.png",
+            "frame": {"x":2,"y":3,"w":654,"h":240},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":165,"y":9,"w":654,"h":240},
+            "sourceSize": {"w":1024,"h":257}
+},
+{
+	"filename": "combo_water_slash_anim_0020.png",
+            "frame": {"x":2,"y":3,"w":654,"h":240},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":165,"y":9,"w":654,"h":240},
+            "sourceSize": {"w":1024,"h":257}
+},
+{
+	"filename": "combo_water_slash_anim_0021.png",
+            "frame": {"x":2,"y":3,"w":654,"h":240},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":234,"y":9,"w":654,"h":240},
+            "sourceSize": {"w":1024,"h":257}
+},
+{
+	"filename": "combo_water_slash_anim_0022.png",
+            "frame": {"x":2,"y":3,"w":654,"h":240},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":295,"y":9,"w":654,"h":240},
+            "sourceSize": {"w":1024,"h":257}
+},
+{
+	"filename": "combo_water_slash_anim_0023.png",
+            "frame": {"x":4,"y":254,"w":561,"h":122},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":696,"y":67,"w":561,"h":122},
+            "sourceSize": {"w":1024,"h":257}
+},
+{
+	"filename": "combo_water_slash_anim_0024.png",
+            "frame": {"x":4,"y":254,"w":561,"h":122},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":1021,"y":67,"w":561,"h":122},
+            "sourceSize": {"w":1024,"h":257}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "combo_water_slash_anim.png",
+	"format": "RGBA8888",
+	"size": {"w":663,"h":382},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5870ac55bd3b012d9117b5eb648a83fd$"
+}
+}
